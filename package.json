@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://georgekunchattil1992@bitbucket.org/georgekunchattil1992/git-test.git"
+    "url": "git+github.com/georgekunchattil1992479/git-test.git"
   },
   "author": "George Jacob",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/georgekunchattil1992/git-test#readme",
+  "homepage": "github.com/georgekunchattil1992479/git-test.git#readme",
   "devDependencies": {
     "lite-server": "^2.4.0"
   }
